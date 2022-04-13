@@ -245,6 +245,10 @@ section {
     content: "";
 }
 
+#radio {
+    display: flex;
+    justify-content: space-evenly;
+}
 /* Hero Form Ends */
 
 .intro p {
